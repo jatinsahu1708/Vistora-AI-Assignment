@@ -56,7 +56,7 @@ We work with the **Telco Customer Churn dataset** to:
 
 ## 🎥 Video Walkthrough
 
-📎 Link: _See `video/video_link.txt`_
+📎 Link: _See `[video/video_link.txt](https://drive.google.com/drive/folders/1XaKdgfaKjWYUcgW4iNBGnPsW2rcNvyJ-)`_
 
 ---
 
